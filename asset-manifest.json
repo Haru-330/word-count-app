@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-count-app/static/css/main.e6c13ad2.css",
+    "main.js": "/word-count-app/static/js/main.ecd6e517.js",
+    "static/js/787.f1cf7c64.chunk.js": "/word-count-app/static/js/787.f1cf7c64.chunk.js",
+    "index.html": "/word-count-app/index.html",
+    "main.e6c13ad2.css.map": "/word-count-app/static/css/main.e6c13ad2.css.map",
+    "main.ecd6e517.js.map": "/word-count-app/static/js/main.ecd6e517.js.map",
+    "787.f1cf7c64.chunk.js.map": "/word-count-app/static/js/787.f1cf7c64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ecd6e517.js"
+  ]
+}
